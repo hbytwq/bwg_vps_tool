@@ -1,0 +1,7 @@
+Server/sftp-config.json
+Client/ToolClient/Debug
+Client/ToolClient/ToolClient/Debug
+Client/ToolClient/Release
+Client/ToolClient/ToolClient/Release
+Client/ToolClient/ToolClient.opensdf
+*.sdf
